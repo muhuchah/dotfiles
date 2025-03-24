@@ -47,16 +47,16 @@ config.local
 .vim_runtime/
 .vscode/
 .ZAP/
-.blue/
-.Desktop/
-.Documents/
-.Downloads/
-.go/
-.Music/
-.Pictures/
-.Public/
-.Templates/
-.Videos/
+blue/
+Desktop/
+Documents/
+Downloads/
+go/
+Music/
+Pictures/
+Public/
+Templates/
+Videos/
 
 .bash_logout
 .bash_profile
@@ -64,3 +64,16 @@ config.local
 
 .dmrc
 .face
+.fehbg
+.gitconfig
+.gtkrc-2.0
+.hushlogin
+.npmrc
+.python_history
+.vim_mru_files
+.viminfo
+.vimrc
+.zcompdump-babilash-5.9
+.zcompdump-babilash-5.9.zwc
+.zsh_history
+TIME.md
