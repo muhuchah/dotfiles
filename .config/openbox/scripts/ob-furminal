@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+## Copyright (C) 2020-2024 Aditya Shakya <adi1090x@gmail.com>
+##
+## Fullscreen terminal
+
+alacritty --class 'alacritty_fullscreen,alacritty_fullscreen' \
+		  -o window.startup_mode="'Fullscreen'" window.padding.x=5 \
+		  window.padding.y=5 window.opacity=0.85 window.blur=true font.size=14
