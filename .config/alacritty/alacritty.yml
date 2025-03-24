@@ -1,0 +1,20 @@
+window:
+  opacity: 0.85
+  padding:
+    x: 45
+    y: 45
+  startup_mode: Fullscreen
+
+font:
+  size: 14
+  normal:
+    family: JetBrains Mono
+    style: Regular
+  bold:
+    family: JetBrains Mono
+    style: Bold
+
+colors:
+  primary:
+    background: '#000000'
+    foreground: '#ffffff' 
