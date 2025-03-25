@@ -139,9 +139,11 @@ alias lg='eza --icons -l --group-directories-first'
 # git
 alias gcl='git clone --depth 1'
 alias gi='git init'
+alias gits='git status'
 alias ga='git add'
 alias gc='git commit -m'
 alias gp='git push origin master'
+alias gd='git diff'
 
 # Cursor
 alias cursor='~/Downloads/Cursor-0.46.11-ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e19.deb.glibc2.25-x86_64.AppImage'
