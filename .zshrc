@@ -152,7 +152,7 @@ alias cursor='~/Downloads/Cursor-0.46.11-ae378be9dc2f5f1a6a1a220c6e25f9f03c8d4e1
 alias farsi='setxkbmap -model pc104 -layout us,ir -variant ,, -option grp:alt_shift_toggle'
 
 # Cat
-alias cat='bat'
+alias cat='bat --theme="TwoDark"'
 
 export PATH=~/.npm-global/bin:$PATH
 export PATH=/home/lash/.local/bin:$PATH
