@@ -154,5 +154,12 @@ alias farsi='setxkbmap -model pc104 -layout us,ir -variant ,, -option grp:alt_sh
 # Cat
 alias cat='bat --theme="TwoDark"'
 
+# Clear Screen
+alias cls='clear'
+
+docker() {  
+    command docker "$@" | cat  
+}
+
 export PATH=~/.npm-global/bin:$PATH
 export PATH=/home/lash/.local/bin:$PATH
