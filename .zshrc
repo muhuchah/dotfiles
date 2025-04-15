@@ -163,3 +163,6 @@ docker() {
 
 export PATH=~/.npm-global/bin:$PATH
 export PATH=/home/lash/.local/bin:$PATH
+
+# Kubectl auto completion
+source <(kubectl completion zsh)
