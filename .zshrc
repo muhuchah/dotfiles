@@ -166,3 +166,4 @@ export PATH=/home/lash/.local/bin:$PATH
 
 # Kubectl auto completion
 source <(kubectl completion zsh)
+export PATH=$PATH:$(go env GOPATH)/bin
